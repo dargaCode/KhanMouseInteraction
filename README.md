@@ -1,4 +1,4 @@
-# khanMouseInteraction
+# Khan Academy - Mouse Interaction
 (JS) Khan project originally completed 5/18/2015
 
 Draw loop, tracking the mouse, and dynamic variables.
