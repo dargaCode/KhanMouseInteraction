@@ -1,4 +1,4 @@
-# Khan Academy - Chicken Drawing
+# Khan Academy - Mouse Interaction
 <strong>Javascript + Processing.js<br>
 Originally completed 5/18/2015</strong>
 
