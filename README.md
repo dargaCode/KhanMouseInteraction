@@ -1,6 +1,6 @@
 # Khan Academy - Mouse Interaction
-<strong>Javascript + Processing.js<br>
-Originally completed 5/18/2015</strong>
+<strong>Language: Javascript + Processing.js</strong></br>
+Originally completed 5/18/2015
 
 Draw loop, tracking the mouse, and dynamic variables.
 
