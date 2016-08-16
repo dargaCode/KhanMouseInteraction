@@ -28,8 +28,11 @@ canvas {
 /*INSTRUCTIONS*/
 
 .instructions {
-  margin-bottom: 40px;
   color: #eeeeee;
+  margin-bottom: 40px;
+  padding-left: 50px;
+  text-align: left;
+  line-height: 1.5;
 }
 
 /*FOOTER*/
